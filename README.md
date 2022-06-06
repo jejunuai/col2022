@@ -46,7 +46,7 @@
 
 
 
-### 3. Smart Grid Security: A Machine Learning Perspective
+### 2. Smart Grid Security: A Machine Learning Perspective
 
 **Time: 14:20 ~ 15:10, June 10, 2022 (Offline)** <br/>  
 
@@ -57,9 +57,9 @@
 
 
 
-### 2. Title: Time series prediction of electricity demand and beyond: How recent machine learning technologies work
+### 3. Title: Time series prediction of electricity demand and beyond: How recent machine learning technologies work
 
-**Time: 15:20 ~ 16:10, June 10, 2022 (Offline)** <br/>
+**Time: 15:20 ~ 16:10, June 10, 2022 (Online)** <br/>
 
 > * **Speaker: Prof. Kiyota Hashimoto (Prince of Songkla University, Thailand)** <br/>
 >   <img src="images\_kiyota.png" width="300" /> <br/>
