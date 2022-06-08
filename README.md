@@ -37,11 +37,11 @@
 ## Invited Talks 
 **1:20 pm ~ 5:50 pm, June 10(Friday), 2022** <br/>
 
-### 1. Title (TBD)
+### 1. Machine Learning for improving performance and robustness of complex systems
 **Time: 13:20 ~ 14:10, June 10, 2022 (Offline)**  <br/>  
 > * **Speaker: Prof. Ernesto Damiani (Università degli Studi di Milano, Italy)** <br/>
 > <img src="images\damia.gif" width="300" /> <br/>
-> * Abstract: 
+> * Abstract: Optimization of controlled complex systems such as power generators and hybrid engines using traditional techniques is very challenging, also due to potential conflicts between performance goals, SLAs and key requirements such as operational safety and security in presence of attacks. Use of supervised and semi-supervised Artificial Intelligence-Machine Learning models to improve the behavior of controlled systems is a promising approach, but requires investigated techniques to simulate, analyze and model complex systems to generate training data, as well as methods to use such data to train ML models capable of achieving both performance and robustness goals. This talk reports on techniques for assessing and improving complex system performance and resilience using redundant ML models trained on imprecise simulation data. It discusses how ML models can benefit from specifying systems in an ‘open-ended’ manner where not all states of the system are prescribed at design-time.
 > * Short Bio: Ernesto Damiani (Senior Member, IEEE) is currently a Full Professor at the Università degli Studi di Milano, Italy, a Senior Director of the Robotics and Intelligent Systems Institute, and the Director of the Center for Cyber Physical Systems (C2PS), Khalifa University, United Arab Emirates. He is the Leader of the Big Data Area, Etisalat British Telecom Innovation Center (EBTIC), and the President of the Consortium of Italian Computer Science Universities (CINI). He is also part of the ENISA Ad-Hoc Working Group on Artificial Intelligence Cybersecurity. He has pioneered model-driven data analytics. He has authored more than 650 Scopus-indexed publications and several patents. His research interests include cyber-physical systems, big data analytics, edge/cloud security and performance, artificial intelligence, and machine learning. He was a recipient of the Research and Innovation Award from the IEEE Technical Committee on Homeland Security, of the Stephen Yau Award from the Service Society, of the Outstanding Contributions Award from IFIP TC2, of the Chester-Sall Award from IEEE IES, of the IEEE TCHS Research and Innovation Award, and of a Doctorate Honoris Causa from INSA-Lyon, France, for his contribution to big data teaching and research.
 
 
